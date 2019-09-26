@@ -1,3 +1,4 @@
 《try》
-可以用gdb print echo tailf ptack perf 熟练的偷窥内存秘密
+可以用gdb ptack perf 熟练的偷窥内存秘密
+可以用print echo tailf cat egrep awk 关注每一细节
 却无法窥视你的内心
